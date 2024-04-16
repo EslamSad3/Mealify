@@ -656,7 +656,7 @@ textarea {
   }
 }
 
-/* DeskTop */
+/* DiskTop */
 @media screen and (min-width: 768px) {
   .mobile {
     display: none;
